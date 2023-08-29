@@ -64,6 +64,6 @@ def main():
     else:
         print("No results found.")
 
-if _name_ == "_main_":
-    main()
+if __name__ == "__main__":
+    main()
 #
